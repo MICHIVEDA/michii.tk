@@ -8,9 +8,10 @@
 	height: 400px;
 	overflow: hidden;
 	position: relative;
-
+	padding-left: 30px;
+	margin-left: auto;
+	margin-right: auto;
 	padding-bottom: 2%;
-    text-align: center;
 }
 
 .fling-minislide img {
@@ -240,8 +241,24 @@ a:hover {
 	position: relative;
 }
 
+.center-column {
+	font-size: 20px;
+	padding: 10px;
+	border: 3px solid #E7E5DF;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-left: 2%;
+	position: relative;
+}
 
-
+.box {
+	padding: 5px;
+	border: 3px solid #E7E5DF;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-left: 2%;
+	position: relative;
+}
 
 .text {
 	color: #E7E5DF;
