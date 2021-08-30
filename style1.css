@@ -1,0 +1,101 @@
+@font-face {
+	font-family: "WL";
+	src: url("Resources/Warioland4chmc-VApe.ttf");
+}
+
+body {
+	background-color: black;
+}
+
+.header {
+	font-size: 60px;
+	text-align: center;
+	color: #E7E5DF;
+	font-family: "WL";
+
+}
+
+.left-column {
+	font-size: 34px;
+	font-family: "WL";
+	text-align: center;
+	padding: 10px;
+	border: 3px solid #E7E5DF;
+	margin-right: 2%;
+	margin-top: 5%;
+	margin-left: 2%;
+	position: relative;
+}
+
+.center-column {
+	font-size: 20px;
+	color: #E7E5DF;
+	padding: 10px;
+	font-family: "WL";
+	border: 3px solid #E7E5DF;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-left: 2%;
+	position: relative;
+}
+
+.center-column1 {
+	font-size: 20px;
+	color: #E7E5DF;
+	padding: 10px;
+	font-family: "WL";
+	border: 3px solid #E7E5DF;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-left: 2%;
+	position: relative;
+}
+
+.box {
+	position: relative;
+	margin-right: 2%;
+	margin-left: 2%;
+	margin-top: 2%;
+	border: 3px solid #E7E5DF;
+    text-align: center;
+    
+}
+
+.text {
+	color: #E7E5DF;
+	font-family: "Wl";
+	text-align: left;
+	padding: 10px;
+}
+
+a:link {
+	color: #E7E5DF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #E7E5DF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #08FF08;
+}
+
+.left-column-image {
+	width: 200px;
+	height: 200px;
+	margin-top: 34px;
+	margin-left: 34px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+}
+
+.right-column {
+	padding: 20px;
+	border: 3px solid #E7E5DF;
+	margin-top: 2%;
+	margin-right: 2%;
+	float: right;
+}
+
