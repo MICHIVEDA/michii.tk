@@ -3,6 +3,28 @@
 	src: url("Resources/Warioland4chmc-VApe.ttf");
 }
 
+/* width */
+::-webkit-scrollbar {
+	width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	background: #E7E5DF;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: #08FF08;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #27c60b;
+  }
+
+
+
 body {
 	background-color: black;
 }
