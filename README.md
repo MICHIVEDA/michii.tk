@@ -1,2 +1,3 @@
 # michii.tk
-Website
+
+Personal website connected with lainchan webring. 
